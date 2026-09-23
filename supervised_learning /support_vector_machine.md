@@ -57,7 +57,7 @@ SVM uses the **Kernel Trick**. It mathematically transforms the 2D space into a 
 3.  **Text Categorization:** Classifying news articles or identifying spam (though Naive Bayes is usually faster for this).
 4.  **Geospatial Analysis:** Predicting land use from satellite imagery.
 
-## Python Implementation (scikit-learn)
+## Sample Python Implementation (Scikit-learn)
 
 ```python
 # 1. Import libraries
