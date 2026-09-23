@@ -21,7 +21,7 @@ Whether you're prepping for an interview, cramming for an exam, or just need a q
 ## Supervised Learning
 *Algorithms that learn from labeled training data to predict outcomes.*
 
-*   **Linear Regression:** [Cheatsheet](./supervised/linear_regression.md) 
+*   **Linear Regression:** [Cheatsheet](supervised_learning /linear_regression.md) 
 *   **Logistic Regression:** [Cheatsheet](./supervised/logistic_regression.md) 
 *   **Decision Trees & Random Forests:** [Cheatsheet](./supervised/trees.md) 
 *   **Support Vector Machines (SVM):** [Cheatsheet](./supervised/svm.md) 
