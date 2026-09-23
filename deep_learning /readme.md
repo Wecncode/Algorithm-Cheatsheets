@@ -19,15 +19,15 @@ The field is largely divided by architecture types based on the data they proces
 Here is what you will find in this directory. Each architecture includes a theoretical Markdown cheatsheet and an accompanying Jupyter Notebook using modern frameworks like `TensorFlow/Keras` or `PyTorch` / `Hugging Face`.
 
 ### The Foundations
-*   **Artificial Neural Networks (ANN):** [Cheatsheet](./ann.md)
+*   **Artificial Neural Networks (ANN):** [Cheatsheet](./artificial_neural_networks.md)
     *   *Best for:* General-purpose deep learning on structured tabular data, or serving as the final output layers for more complex networks.
 
 ### Computer Vision
-*   **Convolutional Neural Networks (CNN):** [Cheatsheet](./cnn.md)
+*   **Convolutional Neural Networks (CNN):** [Cheatsheet](./convoluted_neural_networks.md)
     *   *Best for:* Image classification, object detection, facial recognition, and medical image analysis.
 
 ### Sequence & Temporal Models
-*   **Recurrent Neural Networks (RNN & LSTM):** [Cheatsheet](./rnn_lstm.md) 
+*   **Recurrent Neural Networks (RNN & LSTM):** [Cheatsheet](./recurrent_neural_networks.md) 
     *   *Best for:* Processing time-series data, speech recognition, and basic sequential text processing where historical memory is required.
 
 ### The Modern Frontier
