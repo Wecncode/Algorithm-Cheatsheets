@@ -74,7 +74,7 @@ We love contributions from the community! If you have a cheatsheet for an algori
 5.  Push to the branch (`git push origin feature/new-cheatsheet`).
 6.  Open a Pull Request.
 
-Please read our [Contribution Guidelines](CONTRIBUTING.md) for formatting rules.
+Please read our [Contribution Guidelines](contributing.md) for formatting rules.
 
 ## 📜 License
 
