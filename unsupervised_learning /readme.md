@@ -17,17 +17,17 @@ Unsupervised Learning algorithms generally fall into three main categories based
 Here is what you will find in this directory. Each algorithm includes a theoretical Markdown cheatsheet and an accompanying Jupyter Notebook with Python code (`scikit-learn`, `scipy`, `mlxtend`, etc.).
 
 ### Clustering Algorithms
-*   **K-Means Clustering:** [Cheatsheet](./kmeans.md) 
+*   **K-Means Clustering:** [Cheatsheet](./k-means.md) 
     *   *Best for:* Fast, centroid-based grouping when you roughly know how many clusters you want.
 *   **Hierarchical Clustering:** [Cheatsheet](./hierarchical.md) 
     *   *Best for:* Discovering nested structures and visualizing taxonomy via a dendrogram (without guessing $k$).
-*   **DBSCAN:** [Cheatsheet](./dbscan.md) 
+*   **DBSCAN:** [Cheatsheet](./density_based_spatial_clustering.md) 
     *   *Best for:* Finding arbitrary-shaped clusters and automatically detecting outliers/noise in dense spatial data.
 
 ### Dimensionality Reduction
-*   **Principal Component Analysis (PCA):** [Cheatsheet](./pca.md) 
+*   **Principal Component Analysis (PCA):** [Cheatsheet](./principal-component-analysis.md) 
     *   *Best for:* Squashing highly correlated features into a few principal components to speed up training and visualize complex data.
-*   **Singular Value Decomposition (SVD):** [Cheatsheet](./svd.md) 
+*   **Singular Value Decomposition (SVD):** [Cheatsheet](./singular_value_decomposition.md) 
     *   *Best for:* Matrix factorization, handling sparse text data, and building the foundation of Recommendation Systems.
 
 ### Association Rules
