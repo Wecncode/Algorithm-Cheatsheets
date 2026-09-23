@@ -21,22 +21,22 @@ Whether you're prepping for an interview, cramming for an exam, or just need a q
 ## Supervised Learning
 *Algorithms that learn from labeled training data to predict outcomes.*
 
-*   **Linear Regression:** [Cheatsheet](./supervised/linear_regression.md) | [Code](./supervised/code/lin_reg.ipynb)
-*   **Logistic Regression:** [Cheatsheet](./supervised/logistic_regression.md) | [Code](./supervised/code/log_reg.ipynb)
-*   **Decision Trees & Random Forests:** [Cheatsheet](./supervised/trees.md) | [Code](./supervised/code/trees.ipynb)
-*   **Support Vector Machines (SVM):** [Cheatsheet](./supervised/svm.md) | [Code](./supervised/code/svm.ipynb)
-*   **K-Nearest Neighbors (KNN):** [Cheatsheet](./supervised/knn.md) | [Code](./supervised/code/knn.ipynb)
-*   **Naive Bayes:** [Cheatsheet](./supervised/naive_bayes.md) | [Code](./supervised/code/naive_bayes.ipynb)
-*   **Gradient Boosting (XGBoost, LightGBM):** [Cheatsheet](./supervised/boosting.md) | [Code](./supervised/code/boosting.ipynb)
+*   **Linear Regression:** [Cheatsheet](./supervised/linear_regression.md) 
+*   **Logistic Regression:** [Cheatsheet](./supervised/logistic_regression.md) 
+*   **Decision Trees & Random Forests:** [Cheatsheet](./supervised/trees.md) 
+*   **Support Vector Machines (SVM):** [Cheatsheet](./supervised/svm.md) 
+*   **K-Nearest Neighbors (KNN):** [Cheatsheet](./supervised/knn.md) 
+*   **Naive Bayes:** [Cheatsheet](./supervised/naive_bayes.md) 
+*   **Gradient Boosting (XGBoost, LightGBM):** [Cheatsheet](./supervised/boosting.md) 
 
 ## Unsupervised Learning
 *Algorithms that infer patterns, structures, and groupings from untagged data.*
 
-*   **K-Means Clustering:** [Cheatsheet](./unsupervised/kmeans.md) | [Code](./unsupervised/code/kmeans.ipynb)
-*   **Hierarchical Clustering:** [Cheatsheet](./unsupervised/hierarchical.md) | [Code](./unsupervised/code/hierarchical.ipynb)
-*   **Principal Component Analysis (PCA):** [Cheatsheet](./unsupervised/pca.md) | [Code](./unsupervised/code/pca.ipynb)
-*   **DBSCAN:** [Cheatsheet](./unsupervised/dbscan.md) | [Code](./unsupervised/code/dbscan.ipynb)
-*   **Association Rules (Apriori):** [Cheatsheet](./unsupervised/apriori.md) | [Code](./unsupervised/code/apriori.ipynb)
+*   **K-Means Clustering:** [Cheatsheet](./unsupervised/kmeans.md)
+*   **Hierarchical Clustering:** [Cheatsheet](./unsupervised/hierarchical.md) 
+*   **Principal Component Analysis (PCA):** [Cheatsheet](./unsupervised/pca.md) 
+*   **DBSCAN:** [Cheatsheet](./unsupervised/dbscan.md) 
+*   **Association Rules (Apriori):** [Cheatsheet](./unsupervised/apriori.md) 
 
 ## Deep Learning
 *Neural networks and advanced architectures.*
