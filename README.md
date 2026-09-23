@@ -22,37 +22,37 @@ Whether you're prepping for an interview, cramming for an exam, or just need a q
 
 *   **Linear Regression:** [Cheatsheet](./supervised_learning%20/linear_regression.md) 
 *   **Logistic Regression:** [Cheatsheet](./supervised_learning%20/logistic_regression.md) 
-*   **Decision Trees & Random Forests:** [Cheatsheet](./supervised_learning%20/trees.md) 
-*   **Support Vector Machines (SVM):** [Cheatsheet](./supervised_learning%20/svm.md) 
-*   **K-Nearest Neighbors (KNN):** [Cheatsheet](./supervised_learning%20/knn.md) 
+*   **Decision Trees & Random Forests:** [Cheatsheet](./supervised_learning%20/decision_tree.md) 
+*   **Support Vector Machines (SVM):** [Cheatsheet](./supervised_learning%20/support_vector_machine.md) 
+*   **K-Nearest Neighbors (KNN):** [Cheatsheet](./supervised_learning%20/k_nearest_neighbors.md) 
 *   **Naive Bayes:** [Cheatsheet](./supervised_learning%20/naive_bayes.md) 
 *   **Gradient Boosting (XGBoost, LightGBM):** [Cheatsheet](./supervised_learning%20/boosting.md) 
 
 ## Unsupervised Learning
 *Algorithms that infer patterns, structures, and groupings from untagged data.*
 
-*   **K-Means Clustering:** [Cheatsheet](./unsupervised/kmeans.md)
-*   **Hierarchical Clustering:** [Cheatsheet](./unsupervised/hierarchical.md) 
-*   **Principal Component Analysis (PCA):** [Cheatsheet](./unsupervised/pca.md) 
-*   **DBSCAN:** [Cheatsheet](./unsupervised/dbscan.md) 
-*   **Association Rules (Apriori):** [Cheatsheet](./unsupervised/apriori.md) 
+*   **K-Means Clustering:** [Cheatsheet](./unsupervised_learning%20/k-means.md)
+*   **Hierarchical Clustering:** [Cheatsheet](./unsupervised_learning%20/hierarchical.md) 
+*   **Principal Component Analysis (PCA):** [Cheatsheet](./unsupervised_learning%20/principal-component-analysis.md) 
+*   **DBSCAN:** [Cheatsheet](./unsupervised_learning%20/density_based_spatial_clustering.md) 
+*   **Association Rules (Apriori):** [Cheatsheet](./unsupervised_learning%20/apriori.md) 
 
 ## Deep Learning
 *Neural networks and advanced architectures.*
 
-*   **Artificial Neural Networks (ANN):** [Cheatsheet](./deep_learning/ann.md)
-*   **Convolutional Neural Networks (CNN):** [Cheatsheet](./deep_learning/cnn.md)
-*   **Recurrent Neural Networks (RNN & LSTM):** [Cheatsheet](./deep_learning/rnn_lstm.md)
-*   **Transformers & Attention:** [Cheatsheet](./deep_learning/transformers.md)
+*   **Artificial Neural Networks (ANN):** [Cheatsheet](./deep_learning%20/artificial_neural_networks.md)
+*   **Convolutional Neural Networks (CNN):** [Cheatsheet](./deep_learning%20/convoluted_neural_networks.md)
+*   **Recurrent Neural Networks (RNN & LSTM):** [Cheatsheet](./deep_learning%20/recurrent_neural_networks.md)
+*   **Transformers & Attention:** [Cheatsheet](./deep_learning%20/transformers.md)
 
 ## Data Preprocessing & Evaluation
 *The essential foundations of building robust models.*
 
-*   **Feature Scaling (Normalization vs. Standardization):** [Cheatsheet](./preprocessing/scaling.md)
-*   **Encoding Categorical Data:** [Cheatsheet](./preprocessing/encoding.md)
-*   **Handling Missing Data:** [Cheatsheet](./preprocessing/imputation.md)
-*   **Evaluation Metrics (Accuracy, F1, ROC-AUC, RMSE):** [Cheatsheet](./evaluation/metrics.md)
-*   **Cross-Validation & Hyperparameter Tuning:** [Cheatsheet](./evaluation/cross_validation.md)
+*   **Feature Scaling (Normalization vs. Standardization):** [Cheatsheet](./data_processing_and_evaluation%20/feature_scaling.md)
+*   **Encoding Categorical Data:** [Cheatsheet](./data_processing_and_evaluation%20/encoding.md)
+*   **Handling Missing Data:** [Cheatsheet](./data_processing_and_evaluation%20/handling_missing_data.md)
+*   **Evaluation Metrics (Accuracy, F1, ROC-AUC, RMSE):** [Cheatsheet](./data_processing_and_evaluation%20/evaluation_metrics.md)
+*   **Cross-Validation & Hyperparameter Tuning:** [Cheatsheet](./data_processing_and_evaluation%20/cross_validation_and_hyperparameter_tuning.md)
 
 ---
 
