@@ -12,8 +12,8 @@ Whether you're prepping for an interview, cramming for an exam, or just need a q
 - [Supervised Learning](/supervised_learning%20/)
 - [Unsupervised Learning](/unsupervised_learning%20/)
 - [Deep Learning](/deep_learning%20/)
-- [Data Preprocessing & Evaluation](data-preprocessing--evaluation%20)
-- [Contributing](contributing%20)
+- [Data Preprocessing & Evaluation](/data_processing_and_evaluation%20)
+- [Contributing](contributing.md)
 
 ---
 
