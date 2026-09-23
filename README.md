@@ -9,25 +9,25 @@ Whether you're prepping for an interview, cramming for an exam, or just need a q
 
 ## 📌 Table of Contents
 
-- [Supervised Learning](#-supervised-learning)
-- [Unsupervised Learning](#-unsupervised-learning)
-- [Deep Learning](#-deep-learning)
-- [Data Preprocessing & Evaluation](#-data-preprocessing--evaluation)
-- [How to Use This Repo](#-how-to-use-this-repo)
-- [Contributing](#-contributing)
+- [Supervised Learning](/supervised_learning%20/)
+- [Unsupervised Learning](/unsupervised_learning%20/)
+- [Deep Learning](/deep_learning%20/)
+- [Data Preprocessing & Evaluation](data-preprocessing--evaluation%20)
+- [How to Use This Repo](how-to-use-this-repo%20)
+- [Contributing](contributing%20)
 
 ---
 
 ## Supervised Learning
 *Algorithms that learn from labeled training data to predict outcomes.*
 
-*   **Linear Regression:** [Cheatsheet](./supervised_learning/linear_regression.md) 
-*   **Logistic Regression:** [Cheatsheet](./supervised/logistic_regression.md) 
-*   **Decision Trees & Random Forests:** [Cheatsheet](./supervised/trees.md) 
-*   **Support Vector Machines (SVM):** [Cheatsheet](./supervised/svm.md) 
-*   **K-Nearest Neighbors (KNN):** [Cheatsheet](./supervised/knn.md) 
-*   **Naive Bayes:** [Cheatsheet](./supervised/naive_bayes.md) 
-*   **Gradient Boosting (XGBoost, LightGBM):** [Cheatsheet](./supervised/boosting.md) 
+*   **Linear Regression:** [Cheatsheet](./supervised_learning%20/linear_regression.md) 
+*   **Logistic Regression:** [Cheatsheet](./supervised_learning%20/logistic_regression.md) 
+*   **Decision Trees & Random Forests:** [Cheatsheet](./supervised_learning%20/trees.md) 
+*   **Support Vector Machines (SVM):** [Cheatsheet](./supervised_learning%20/svm.md) 
+*   **K-Nearest Neighbors (KNN):** [Cheatsheet](./supervised_learning%20/knn.md) 
+*   **Naive Bayes:** [Cheatsheet](./supervised_learning%20/naive_bayes.md) 
+*   **Gradient Boosting (XGBoost, LightGBM):** [Cheatsheet](./supervised_learning%20/boosting.md) 
 
 ## Unsupervised Learning
 *Algorithms that infer patterns, structures, and groupings from untagged data.*
